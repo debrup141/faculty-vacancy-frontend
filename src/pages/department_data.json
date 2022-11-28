@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "department": "Mathematics"
+  },
+  {
+    "id": 2,
+    "department": "Biotechnology"
+  },
+  {
+    "id": 3,
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 4,
+    "department": "Civil Engineering"
+  },
+  {
+    "id": 5,
+    "department": "Electrical Engineering"
+  },
+  {
+    "id": 6,
+    "department": "Mechanical Engineering"
+  },
+  {
+    "id": 7,
+    "department": "Metallurgical and Materials Engineering"
+  }
+]

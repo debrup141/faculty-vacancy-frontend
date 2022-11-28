@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "department": "Junior Research Fellow"
+  },
+  {
+    "id": 2,
+    "department": "Assistant Professor"
+  },
+  {
+    "id": 3,
+    "department": "Associate Professor"
+  },
+  {
+    "id": 4,
+    "department": "Professor"
+  },
+  {
+    "id": 5,
+    "department": "Visiting Lecturer"
+  }
+]

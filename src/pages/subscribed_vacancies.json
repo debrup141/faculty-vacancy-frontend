@@ -1,0 +1,27 @@
+[
+  {
+    "_id": {
+      "$oid": "62fbf5d3cfd5545ba0e8cbb2"
+    },
+    "profileId": "a4472d00-b96c-42a5-8304-eeaedd6f758e",
+    "department": "MM",
+    "locations": ["AP"],
+    "colleges": ["NIT Patna"],
+    "__v": {
+      "$numberInt": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62fbf63acfd5545ba0e8cbb3"
+    },
+    "subscriptionId": "4d3a3ed1-7e30-4561-adeb-ee5a0555bfa6",
+    "profileId": "a4472d00-b96c-42a5-8304-eeaedd6f758e",
+    "department": "EE",
+    "locations": ["WB", "JH"],
+    "colleges": ["NIT Durgapur"],
+    "__v": {
+      "$numberInt": "0"
+    }
+  }
+]
